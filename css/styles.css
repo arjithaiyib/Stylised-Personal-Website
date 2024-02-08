@@ -12,9 +12,12 @@ body {
 
 h1 {
     font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-style: italic;
     color: #11999E;
     font-size: 5.625rem; /* 16px = 100% = 1em -> 90px/16=562.5% ("rem"=root em) */
     margin: 50px auto 20px auto;
+    
 }
 
 h2 {
